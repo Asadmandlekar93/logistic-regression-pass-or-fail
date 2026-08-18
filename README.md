@@ -27,3 +27,7 @@ python LOGP1.PY
 
 The script prints the raw model prediction and either `Student will Pass` or `Student will Fail`.
 
+
+
+## GUI
+Run the Streamlit interface with `streamlit run app.py`. The original `LOGP1.PY` console implementation is preserved.
